@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\apiControl\ApiControl\bin\Debug\ApiControl.exe.config
+C:\Users\user\Desktop\apiControl\ApiControl\bin\Debug\ApiControl.exe
+C:\Users\user\Desktop\apiControl\ApiControl\bin\Debug\ApiControl.pdb
+C:\Users\user\Desktop\apiControl\ApiControl\obj\Debug\ApiControl.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\apiControl\ApiControl\obj\Debug\ApiControl.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\apiControl\ApiControl\obj\Debug\ApiControl.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\apiControl\ApiControl\obj\Debug\ApiControl.exe
+C:\Users\user\Desktop\apiControl\ApiControl\obj\Debug\ApiControl.pdb
